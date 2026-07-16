@@ -3,8 +3,7 @@
 > A comprehensive Matplotlib cheat sheet covering the most commonly used charts, customization options, advanced plots, and best practices for Python Data Visualization.
 
 <p align="center">
-  <img src="Matplotlib_Complete_Guide.png" alt="Matplotlib Complete Guide">
-  <img  width="100%" alt="Matplotlib Python data visualization guide" src="https://github.com/user-attachments/assets/fc397b10-b550-48fb-b15d-f4688bcaa1cf" />
+  <img  width="80%" height="1536" alt="Matplotlib Python data visualization guide" src="https://github.com/user-attachments/assets/fc397b10-b550-48fb-b15d-f4688bcaa1cf" />
 
 </p>
 
