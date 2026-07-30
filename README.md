@@ -377,6 +377,28 @@ plt.show()
 
 ---
 
+# 👨‍💻 Author
+
+**Sanjay Unagar**
+
+Data Analyst | Python | SQL | Excel | Power BI | Pandas | Numpy | Matplotlib | Seaborn | Data Visualization
+
+🔗 GitHub:  
+https://github.com/SanjayTUnagar
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/sanjayunagar/
+
+---
+
+# ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+---
+
+---
+
 # ⭐ If you found this project useful
 
 Give this repository a ⭐ on GitHub.
